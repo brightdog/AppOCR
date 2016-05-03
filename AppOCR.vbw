@@ -1,0 +1,11 @@
+frmMain = 44, 44, 1223, 524, , 22, 22, 932, 635, C
+JSON = 0, 0, 0, 0, C
+modDosPrint = 0, 0, 1224, 379, Z
+modSleep = 0, 0, 0, 0, C
+modWriteLog = 0, 0, 0, 0, C
+clsRowGuid = 0, 0, 0, 0, C
+clsStringBuilder = 0, 0, 0, 0, C
+modClearHistoryFile = 0, 0, 0, 0, C
+modRegExp = 0, 0, 0, 0, C
+LoadPNG = 0, 0, 0, 0, C
+CBitmap = 0, 0, 0, 0, C
